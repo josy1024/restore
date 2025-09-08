@@ -39,7 +39,7 @@ In dieser Anleitung wird der Austausch der Ladebuchse und des Steckers eines E-B
 
 - Buchse im Gehäuse sichtbar machen
   [<img src="3-akku-buchse-freigelegt.jpg" alt="Buchse freigelegt" width="300">](3-akku-buchse-freigelegt.jpg)
-- Mutter der Buchse lösen
+- Mutter der Buchse lösen (auch mit Heißkleber fixiert, vorher mit Messer wegschneiden)
   [<img src="4-akku-buchse-mutter.jpg" alt="Buchse Mutter" width="300">](4-akku-buchse-mutter.jpg)
 - Buchse vorsichtig herausziehen
   [<img src="5-akku-buchse-ausbau.jpg" alt="Buchse Ausbau" width="300">](5-akku-buchse-ausbau.jpg)
