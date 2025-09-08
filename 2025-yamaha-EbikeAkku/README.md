@@ -13,6 +13,12 @@
 * [XLR-Chassisbuchse, 4-pol, True Outdoor Protection](https://www.reichelt.at/at/de/shop/produkt/xlr-chassisbuchse_4-pol_true_outdoor_protection-352724?nbc=1)
 * [XLR Dummy Plug für Einbaubuchsen](https://www.reichelt.at/at/de/shop/produkt/xlr_dummy_plug_fuer_einbaubuchsen-132018?nbc=1)
 
+### Werkzeug
+
+* Torx-Sternschlüssel fürs Gehäuse
+* Forstnerbohrer zum Aufbohren vom Gehäuse
+* Elektriker "Bastler" set (Lötkolben, Zinn, Schrumpfschläuche, usw...)
+
 ## 🔧 E-Bike Akku & Ladekabel Steckertausch
 
 In dieser Anleitung wird der Austausch der Ladebuchse und des Steckers eines E-Bike-Akkus dokumentiert – inklusive mechanischer Anpassung, elektrischer Verbindung und Funktionstest.
@@ -25,6 +31,7 @@ In dieser Anleitung wird der Austausch der Ladebuchse und des Steckers eines E-B
   [<img src="1-akku-oeffnen.jpg" alt="Akku öffnen" width="300">](1-akku-oeffnen.jpg)
 - Rückseitige Schrauben lösen
   [<img src="2-akku-4-2-schrauben.jpg" alt="Schrauben" width="300">](2-akku-4-2-schrauben.jpg)
+- die Stecker sind mit Kleber fixiert - dieser kann mit einem Messer losgeschnitten werden.
 
 ---
 
@@ -90,6 +97,7 @@ In dieser Anleitung wird der Austausch der Ladebuchse und des Steckers eines E-B
   [<img src="16-mechanische-enipassung-mit-dremel.jpg" alt="Mechanische Anpassung" width="300">](16-mechanische-enipassung-mit-dremel.jpg)
 - Stecker abdichten und Schrauben kürzen
   [<img src="17-abdichtung-stecker-gekürzten-schrauben.jpg" alt="Abdichtung" width="300">](17-abdichtung-stecker-gekürzten-schrauben.jpg)
+- Stecker wieder mit etwas Heißkleber fixieren
 
 ---
 
